@@ -1,0 +1,5 @@
+¿Que retorna una función EOF?
+
+La función EOF (end of file), fin de archivo, devuelve el estado de un archivo de texto. Es una función
+de tipo lógico que indica si el fin del archivo se ha almacenado; devuelve true si se ha almacenado, false
+en caso contrario. Es una funcion muy util cuando se hacen busquedas lineales en un archivo.

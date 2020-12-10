@@ -1,0 +1,19 @@
+ 1..  AssignFile(archivo, "archivo.txt"); 
+
+ 
+ 2..  rewrite(archivo); 
+
+
+ 3..  writeln(archivo,"hola mundo");
+
+
+ 4..  close(archivo); 
+
+
+//LAS DE ABAJO NO PERTENECEN
+
+ 5..   eof(archivo);
+
+ 6..  reset(archivo);
+
+ 7..  writeln(archivo."hola mundo");
